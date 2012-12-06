@@ -1,0 +1,12 @@
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\obj\Debug\HafezDivan.Model.csprojResolveAssemblyReference.cache
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\HafezDivan.Model.dll
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\HafezDivan.Model.pdb
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\System.Extensions.dll
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\System.Extensions.UI.dll
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\System.Extensions.UI.pdb
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\System.Extensions.pdb
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\obj\Debug\HafezDivan.Model.dll
+C:\@Data\@Works\WP7.Development\Projects\HafezDivan\HafezDivan.Model\obj\Debug\HafezDivan.Model.pdb

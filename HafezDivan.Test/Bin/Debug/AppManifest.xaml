@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="HafezDivan.Test" EntryPointType="HafezDivan.Test.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="HafezDivan.Test" Source="HafezDivan.Test.dll" />
+    <AssemblyPart x:Name="HafezDivan.Model" Source="HafezDivan.Model.dll" />
+    <AssemblyPart x:Name="System.Extensions" Source="System.Extensions.dll" />
+    <AssemblyPart x:Name="System.Extensions.UI" Source="System.Extensions.UI.dll" />
+    <AssemblyPart x:Name="UnitDrivenPhone" Source="UnitDrivenPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+  </Deployment.Parts>
+</Deployment>
